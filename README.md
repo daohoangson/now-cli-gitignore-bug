@@ -4,7 +4,7 @@ Reported at https://github.com/zeit/now-cli/issues/2021
 
 ## Steps
 
-1. `./docker.sh`: start Docker image `node:10.15.3-alpine` with `now-alpine` downloaded from https://latest-now-cli.now.sh
+1. `./docker.sh`: start Docker image with `now-linux` downloaded from https://latest-now-cli.now.sh
 1. `./dev.sh` (within container): run `now dev`
 
 ## Expected
