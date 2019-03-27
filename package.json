@@ -1,0 +1,11 @@
+{
+  "name": "now-cli-gitignore-bug",
+  "version": "1.0.0",
+  "description": "now dev .gitignore bug",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^11.12.0"
+  },
+  "repository": "https://github.com/daohoangson/now-cli-gitignore-bug.git",
+  "license": "ISC"
+}
