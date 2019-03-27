@@ -1,5 +1,6 @@
 # [now](https://github.com/zeit/now-cli/) dev .gitignore bug
-This repo demonstrate a bug in `now dev` during .gitignore processing
+This repo demonstrate a bug in `now dev` during .gitignore processing.
+Reported at https://github.com/zeit/now-cli/issues/2021
 
 ## Steps
 
